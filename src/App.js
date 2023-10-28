@@ -206,7 +206,7 @@ const screenOptions = ({ route }) => ({
       return <Ionicons name={iconName} size={size} color={color} />
     }
 
-    if (route.name === 'More') {
+    if (route.name === 'Library) {
       const iconName = 'more-horiz';
       return <Mt name={iconName} size={size} color={color} />
     }
