@@ -5858,10 +5858,10 @@ react-native-blob-util@^0.13.18:
     base-64 "0.1.0"
     glob "^7.1.6"
 
-react-native-bottomsheet-reanimated@^0.0.44:
-  version "0.0.44"
-  resolved "https://registry.yarnpkg.com/react-native-bottomsheet-reanimated/-/react-native-bottomsheet-reanimated-0.0.44.tgz#171d45670328bfa2679fd8da4d87263e6315125f"
-  integrity sha512-g82LpwMCAS1mNvW2q8M6hXwTBgXOAKrPRNx0rtdHuw8utY1WffmdwTB+dzXYa8xvnZUEPrIUHdsn875eSCO2AA==
+react-native-bottomsheet-reanimated@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/react-native-bottomsheet-reanimated/-/react-native-bottomsheet-reanimated-0.3.1.tgz#90820966e24afda7761f2565f55c91caa9d879e1"
+  integrity sha512-9js9MHZDKSqFTYv+PC2nHlPAXJ2JV85FjTDKxrxReq4MHbKYEsXo1S9wbdc60rn0MSU+Hoz3teikpzlYZKDu1w==
 
 react-native-codegen@^0.0.7:
   version "0.0.7"
