@@ -5911,10 +5911,10 @@ react-native-mmkv-storage@^0.6.6:
   resolved "https://registry.yarnpkg.com/react-native-mmkv-storage/-/react-native-mmkv-storage-0.6.6.tgz#bd2cabecdcfa751dff7c3b517bce77a2e9a45355"
   integrity sha512-SV7tm3K5nD9x0KZf6ayj8G+xx1LmqKnwcvhXrg66awopEf8Y7JAy9kH4G4ngJzBWfXVyYo5E93RPv9MlQdCfxQ==
 
-react-native-pager-view@^5.4.9:
-  version "5.4.9"
-  resolved "https://registry.yarnpkg.com/react-native-pager-view/-/react-native-pager-view-5.4.9.tgz#c0d40847cfeda5a4e729b53271b0ee0fedff3eb5"
-  integrity sha512-D6tzxpwMGdl6CXgtskGWhKRc5cJakCazESRGt7PkqnpyiH3N35ft1KmR82pCSQetAFlytFiToeu3a/dG5CELvA==
+react-native-pager-view@^6.2.2:
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/react-native-pager-view/-/react-native-pager-view-6.2.2.tgz#4c1c45d5f3f622c0922ef96ac114666392ebf5ec"
+  integrity sha512-MLkJB7iP6v0Hd4/B4/R/gLCSE+YBtjxG/vHZYBDU+fI3U7HBYgKAg4o6ad8HxbKVcWWyRDNeeVRGISw1MUjlHw==
 
 react-native-ratings@8.0.4:
   version "8.0.4"
