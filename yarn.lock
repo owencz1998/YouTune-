@@ -6289,10 +6289,12 @@ react-native-codegen@^0.0.7:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
-react-native-element-dropdown@^1.6.1:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/react-native-element-dropdown/-/react-native-element-dropdown-1.6.1.tgz#ab43a61b41b4ec6261d9ddea069792c1b80e8890"
-  integrity sha512-gHXj9Bx+8NcMNPth4aqsMOR1KX30ftl6zzZV9sFDC4vvAO4ss7sACZ/4pQTUug4HPJVPvz+U6/D8zbrOAYnd2g==
+react-native-element-dropdown@^2.10.0:
+  version "2.10.0"
+  resolved "https://registry.yarnpkg.com/react-native-element-dropdown/-/react-native-element-dropdown-2.10.0.tgz#f4ec2310b37ff3ba64927286ab775c0ed28b681e"
+  integrity sha512-aFjw0JbUIKGkqklHxDm8aDCZW6Q1GICP7pIHc0sllvpWpEamItzOwAMV4G1mBIKxED77Mp+nkq9p0Dhsr/faVw==
+  dependencies:
+    lodash "^4.17.21"
 
 react-native-elements@^3.4.2:
   version "3.4.2"
