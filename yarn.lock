@@ -6203,10 +6203,10 @@ react-native-get-random-values@^1.9.0:
   dependencies:
     fast-base64-decode "^1.0.0"
 
-react-native-image-colors@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/react-native-image-colors/-/react-native-image-colors-1.4.0.tgz#13b78418ce4fb681e075ca05ac600f1a1e4a1fce"
-  integrity sha512-VQf/8LmMTld0rmRRyTznILzfugACSp5SB6XRiooXmIU10lcjm9EQVNFE6fIGomnw035XwxIje6eoZmmtsTIOuw==
+react-native-image-colors@^1.5.2:
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/react-native-image-colors/-/react-native-image-colors-1.5.2.tgz#b3aaa42fb5c57c0accaa6922b8412f1a68b315f9"
+  integrity sha512-yGsxwjQZFL5fthNc/F8//sSH1WZtC0OmxN7HQhXE1gSH0ApldOMkl5njTTMnWSUT/t1iCCBZrANSj3gnw1UaOg==
   dependencies:
     node-vibrant "3.1.6"
 
