@@ -21,7 +21,7 @@
     "nanoid": "^5.0.4",
     "react": "17.0.2",
     "react-native": "0.66.0",
-    "react-native-blob-util": "^0.19.2",
+    "react-native-blob-util": "^0.19.6",
     "react-native-bottomsheet-reanimated": "^0.3.1",
     "react-native-element-dropdown": "^2.10.1",
     "react-native-elements": "^3.4.3",
