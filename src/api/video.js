@@ -34,7 +34,7 @@ export const getVideo = async (videoId, playlistId = null) => {
             data: params,
             headers: {
                 'Content-Type': 'application/json',
-                'Origin': 'https://music.youtube.com'
+                'Origin': 'https://music.youtube.com/'
             }
         })
 
