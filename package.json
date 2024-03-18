@@ -16,7 +16,7 @@
     "@react-navigation/native": "^6.1.9",
     "@react-navigation/native-stack": "^6.9.18",
     "@reduxjs/toolkit": "^2.2.1",
-    "axios": "^1.6.5",
+    "axios": "^1.6.8",
     "lottie-react-native": "^6.6.0",
     "nanoid": "^5.0.6",
     "react": "17.0.2",
