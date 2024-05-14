@@ -1,4 +1,4 @@
-package com.atomm.open;
+package com.YouTune.open;
 
 import com.facebook.react.bridge.JSIModuleSpec;
 import com.facebook.react.bridge.JavaScriptContextHolder;
