@@ -339,9 +339,9 @@ export const DownloadSong = async () => {
       const granted = await PermissionsAndroid.request(
         PermissionsAndroid.PERMISSIONS.WRITE_EXTERNAL_STORAGE,
         {
-          title: "Atomm storage permission",
+          title: "YouTune storage permission",
           message:
-            "Atomm music app needs access to your storage " +
+            "YouTune music app needs access to your storage " +
             "so you can download the song.",
           buttonNeutral: "Ask Me Later",
           buttonNegative: "Cancel",
