@@ -1,4 +1,4 @@
-package com.atomm.open;
+package com.YouTune.open;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,7 +10,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "Atomm";
+    return "YouTune";
   }
 
   // @Override
