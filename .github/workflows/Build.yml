@@ -26,7 +26,7 @@ jobs:
         run:  echo "${{ secrets.KEYSTORE_B64 }}" | base64 -d > $GITHUB_WORKSPACE/signing-key.jks
 
       - name: Make gradlew executable
-        run: chmod +x ./gradlew
+        run: chmod +x ./test/gradlew
 
       - name: Build with Gradle
         run: |
